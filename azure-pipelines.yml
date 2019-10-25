@@ -18,3 +18,5 @@ steps:
   inputs:
     version: 3.0.x
     performMultiLevelLookup: true
+
+- task: PublishBuildArtifacts@1
